@@ -1,8 +1,7 @@
 # galeria.grid
 # galeria.grid
 
-![](./grid.png.png)
-
+![](./grid.png)
 
 ## Projeto
 Minha primeira galeria grid
